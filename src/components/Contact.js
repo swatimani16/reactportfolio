@@ -7,19 +7,18 @@ function Contact(){
         <Grid className="contact-grid">
             <Cell col={6}>
                 <h2>Swati Mani</h2>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJ9ThJvZlkyfYDy2Fb6-2eC92nUZP01SPXFsG13EZ_6FnYIg_D" alt="avatar" style={{height: "250px"}}/>
+                <img src="/WhatsApp Image 2020-08-06 at 23.05.14.jpeg" alt="avatar" style={{height: "250px"}}/>
                 <p style={{width: "75%", margin:"auto", paddingTop:"1em"}}>
-                Master in Computer Science student specializing in Artificial Intelligence and Databases and graduating in May 2020.<br />
-I am always eager to learn new technologies and gain knowledge.<br />
+                <strong>Master in Computer Science from the University of Texas, Arlington graduated in May 2020.</strong><br />
+An eager learner of new technology and having the motivation to work hard.<br />
 <br />
-Domain skills:         Cloud Computing|Machine learning<br />
+Domain skills:         Python developer(Object Oriented language), Django REST API, ReactJS, Angular, Full-stack Developer<br />
 Programming Languages: Python, Java (core)<br />
-Cloud servers:         AWS,Azure<br />
-Web technologies:      HTML,CSS,NodeJs, JavaScript, ReactJs<br />
-GUI:                   Tkinter, Java Swings<br />
-Databases:             SQL (MySql)<br />
-Frameworks:            Flask<br />
-Tools:                 Git,Jmeter,Xampp,Eclipse,Pycharm<br />
+Web technologies:      HTML5,CSS3, JavaScript(ES6), ReactJs<br />
+Frameworks and Database: Django, Flask, MySQL
+Databases:             SQL (MySql), sqLite<br />
+Cloud servers:         AWS<br />
+Tools & IDEs: Jupyter Notebook, PyCharm, Git, XAMPP, Jmeter, Numpy, Pandas, Scipy, Eclipse, Brackets, Git version control, unittest<br/>
                 </p>
             </Cell>
             <Cell col={6}>

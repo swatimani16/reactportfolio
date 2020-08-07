@@ -6,16 +6,16 @@ function Landingpage(){
         <div style={{width: "100%", margin: "auto"}}>
            <Grid className="landing-grid">
             <Cell col={12}>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJ9ThJvZlkyfYDy2Fb6-2eC92nUZP01SPXFsG13EZ_6FnYIg_D" alt ="avatar" className="avatar-img"/>
-            <br/><br /><br /><br />
+            <img src="/WhatsApp Image 2020-08-06 at 23.05.14.jpeg" alt ="avatar" className="avatar-img" style={{height: "370px", width: "370px"}} className = "center"/>
+            
             
             <div className="banner-text">
-              <h1>Full-stack Web Developer| Cloud Computing| React JS| Machine Learning </h1>
+              <h1>Full-stack Web Developer | Python Developer | Django | Django REST framework| ReactJS | Angular </h1>
               <hr />
-              <p>HTML/CSS | Javascript | ReactJs | Python | SQL | AWS | Python-Flask | Java | Machine Learning </p>
+              <p>Python | Django framework | Django REST framework | ReactJs | SQL | AWS | Python-Flask |<br/><br/>| Java | Angular </p>
               <div className="social-links">
                 {/*LinkedIn*/}
-                <a href="https://www.linkedin.com/in/swati-mani-350793a7/" target="_blank" rel="nooperner noreferrer">
+                <a href="https://www.linkedin.com/in/swati-350793a7/" target="_blank" rel="nooperner noreferrer">
                   <i className="fa fa-linkedin-square "  aria-hidden="true" />
                 </a>
                 {/*Github*/}

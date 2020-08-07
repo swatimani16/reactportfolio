@@ -11,33 +11,33 @@ function Resume(){
         <Grid>
             <Cell col={4}>
                 <div style={{textAlign: "center"}}>
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJ9ThJvZlkyfYDy2Fb6-2eC92nUZP01SPXFsG13EZ_6FnYIg_D" alt="avatar" style={{height: "200px"}} />
+                    <img src="/WhatsApp Image 2020-08-06 at 23.05.14.jpeg" alt="avatar" style={{height: "400px"}} />
                 </div>
                 <h2 style={{paddingTop:"2em"}}>Swati Mani</h2>
-                <h4 style={{color:"grey"}}>Developer</h4>
+                <h4 style={{color:"grey"}}>Web Application Developer | Software Developer</h4>
                 <hr style={{borderTop:"3px solid #833fb2",width: "50%"}} />
-                <p>Master in Computer Science student specializing in Artificial Intelligence and Databases and graduating in May 2020.<br />
-I am always eager to learn new technologies and gain knowledge.<br />
+                <p><strong>Master in Computer Science from the University of Texas, Arlington graduated in May 2020.</strong><br />
+An eager learner of new technology and having the motivation to work hard.<br />
 <br />
-Domain skills:         Cloud Computing|Machine learning<br />
+Domain skills:         Python developer(Object Oriented language), Django REST API, ReactJS, Angular, Full-stack Developer<br />
 Programming Languages: Python, Java (core)<br />
-Cloud servers:         AWS,Azure<br />
-Web technologies:      HTML,CSS,NodeJs, JavaScript, ReactJs<br />
-GUI:                   Tkinter, Java Swings<br />
-Databases:             SQL (MySql)<br />
-Frameworks:            Flask<br />
-Tools:                 Git,Jmeter,Xampp,Eclipse,Pycharm<br /></p>
+Web technologies:      HTML5,CSS3, JavaScript(ES6), ReactJs<br />
+Frameworks and Database: Django, Flask, MySQL
+Databases:             SQL (MySql), sqLite<br />
+Cloud servers:         AWS<br />
+Tools & IDEs: Jupyter Notebook, PyCharm, Git, XAMPP, Jmeter, Numpy, Pandas, Scipy, Eclipse, Brackets, Git version control, unittest<br/>
+</p>
                 <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
                 <h5 >Address</h5>
-                <p>507 Summit Avenue, Arlington,Texas, 76013</p>
+                <p>1324 Hidden Ridge Apartments, 75038</p>
                 <h5>Phone</h5>
                 <p>+1 682-360-5387</p>
                 <h5>Email id: </h5>
                 <p>swati.mani@mavs.uta.edu</p>
                 <h5>LinkedIn: </h5>
-                <a href="https://www.linkedin.com/in/swati-mani-350793a7/">Swati Mani</a>
+                <a href="https://www.linkedin.com/in/swati-350793a7/">Swati Mani</a>
                 <h5>Web</h5>
-                <a href="https://swatimani.github.io">My Portfolio</a>
+                <a href="http://swatimani16.github.io/reactportfolio/">My Portfolio</a>
                 <hr style={{borderTop:"3px solid #833fb2",width: "50%"}} />
             </Cell>
             <Cell className="resume-right-col" col={8}> 
@@ -65,19 +65,39 @@ Tools:                 Git,Jmeter,Xampp,Eclipse,Pycharm<br /></p>
             <h2>Skills</h2>
             <Skills 
                skill = "Python"
-               progress={85}
+               progress={80}
+            />
+            <Skills 
+               skill = "Django framework"
+               progress={80}
+            />
+            <Skills 
+               skill = "Django REST framework"
+               progress={70}
+            />
+            <Skills 
+               skill = "ReactJs"
+               progress={50}
+            />
+            <Skills 
+               skill = "Angular 10"
+               progress={50}
             />
             <Skills 
                skill = "Javascript"
-               progress={65}
+               progress={60}
+            />
+            <Skills 
+               skill = "Git(version control)"
+               progress={80}
             />
             <Skills 
                skill = "Core Java"
-               progress={65}
+               progress={50}
             />
             <Skills 
                skill = "HTML/CSS"
-               progress={60}
+               progress={70}
             />
             <Skills 
                skill = "MySQL"
@@ -85,7 +105,7 @@ Tools:                 Git,Jmeter,Xampp,Eclipse,Pycharm<br /></p>
             />
             <Skills 
                skill = "AWS(EC2)"
-               progress={40}
+               progress={30}
             />
             <h2>Certifications</h2>
             <Certifications 
